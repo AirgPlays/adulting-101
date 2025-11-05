@@ -1,4 +1,4 @@
-# Adulting 101 - Intro to Computer Science Project
+# Adulting 101 - Intro to Computer Science Project - 12/11/2024
 
 This project, **Adulting 101**, was created as part of an **Intro to Computer Science** course. The goal was to apply basic HTML and CSS skills to make a functional, educational website that demonstrates understanding of web development fundamentals.
 
